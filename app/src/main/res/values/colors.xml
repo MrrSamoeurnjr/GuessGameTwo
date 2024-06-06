@@ -1,0 +1,7 @@
+<resources>
+    <color name="start_button_color">#FF6200EE</color>
+    <color name="submit_button_color">#FF03DAC5</color>
+    <color name="try_again_button_color">#FF018786</color>
+    <color name="check_box_color">#FF6200EE</color>
+    <color name="edit_text_color">#FF03DAC5</color>
+</resources>
